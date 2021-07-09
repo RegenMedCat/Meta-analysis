@@ -1,0 +1,35 @@
+﻿First Author,Year,Control.n,Control.Mean,Control.SD,Treatment.name,Treatment.n,Treatment.Mean,Treatment.SD,Random,Blind,Secretome,Cell.Source,Route,Time,Multiple.Doses
+Borhani-Haghighi,2020,6,10.6,2.205,BMSC-CM,6,17.4,2.694,Y,Y,CM,human,IC,,N
+Cantinieaux,2013,10,14.55,5.060,BMSC-CM,10,17.05,5.376,Y,Y,CM,rat,IC,,Y
+Chen,2019,7,1.2,0.700,MSCGM-CM,12,3.2,7.600,Y,Y,CM,human,IC,,Y
+Chen,2019,7,1.2,0.700,NRLM-CM,14,4.1,8.230,Y,Y,CM,human,IC,,Y
+Cheng,2017,16,5.5,1.800,NSC-M,16,6.25,1.080,N,N,CM,mouse,IP,,Y
+Chudickova,2019,16,3.9,0.400,CM,10,8.25,0.450,N,N,CM,human,IC,,Y
+Cizkova,2018,4,13.1,2.400,MScCM,6,18.1,3.429,Y,Y,CM,rat,IC,,Y
+Gu,2017,3,11.25,0.500,low dose OEC-M,6,12.95,0.850,N,Y,CM,rat,IP,,Y
+Gu,2017,3,11.25,0.500,high dose OECM,6,13.65,0.75,N,Y,CM,rat,IP,,Y
+Guo,2016,17,5.05,0.350,ESC-M,25,6.3,0.500,N,Y,CM,mouse,IP,,Y
+Huang,2020a,8,7.2,0.420,EV,8,12.2,0.260,Y,Y,EV,human,IV,,N
+Huang,2020b,5,9.8,0.750,miR-126 EX,10,16.2,0.650,Y,Y,miR,rat,IV,,N
+Huang,2020b,5,9.8,0.750,miR-CON,10,12.4,0.65,Y,Y,miR,rat,IV,,N
+Huang,2017,5,11.025,1.469,MSCs‐Exosome,5,15.465,1.641,Y,Y,EV,rat,IV,,N
+Kanekiyo,2018,10,3.1,0.600,CM,10,6.1,0.600,N,Y,CM,rat,IC,,Y
+Kim,2018,3,1.5,0.550,NV,10,2.55,0.600,Y,Y,EV,human,IV,,N
+Kim,2018,3,1.5,0.550, NV-IONP (MF−),10,5.85,1.05,Y,Y,EV,human,IV,,N
+Kim,2018,3,1.5,0.550,NV-IONP (MF+),10,7.65,1.3,Y,Y,EV,human,IV,,N
+Li,2018,3,11.2,0.750,miR-con,6,11.6,0.700,Y,Y,miR,rat,IV,,N
+Li,2018,3,11.2,0.750,miR-113b,6,14.4,0.65,Y,Y,miR,rat,IV,,N
+Liang,2014,22,10.1,7.036,NSCM ,23,16.2,2.398,Y,Y,CM,human,IC,,Y
+Liu,2018,10,6.8,1.800,BMSCs-Exos,10,9.2,1.450,Y,Y,EV,rat,IV,,N
+Matsubara,2015,5,6.05,1.100,SHED-CM,15,13.55,1.600,N,Y,CM,human,IC,,Y
+Matsubara,2015,5,6.05,1.100,BMSC-CM,7,8.3,1.75,N,Y,CM,human,IC,,Y
+Rong,2019,8,8.15,1.900,NSC-sEVs,8,11.8,1.050,Y,Y,EV,mouse,IV,,N
+Ruppert,2018,6,11.3,1.200,MSCEVs ,16,13.6,1.600,Y,Y,EV,human,IV,,N
+Sun,2018,4,3.35,0.990,hucMSC Exos 20ug,8,3.75,0.849,Y,Y,EV,human,IV,,N
+Sun,2018,4,3.35,0.990,hucMSC Exos 200ug,8,5.3,1.131,Y,Y,EV,human,IV,,N
+Tsai,2019,6,4.3,1.470,MSC-cm,6,8.55,1.715,N,N,CM,rat,IV,,Y
+Wang,2018,10,9.35,2.214,MSC Exo,10,14.5,1.265,Y,Y,EV,rat,IV,,Y
+Zhao,2019,5,15.05,2.460,Exo,5,17.95,4.472,Y,Y,EV,rat,IV,,N
+Zhong,2020,5,4.3,1.000,NSCsCon shRNA-Exos,10,6.7,1.250,Y,N,EV,mouse,IV,,Y
+Zhong,2020,5,4.3,1.000,NSCsshVEGF-A-Exos,10,5.1,0.6,Y,N,EV,mouse,IV,,Y
+Zhou,2019,6,12,1.100,MSCs-Evs,6,18.25,0.950,Y,Y,EV,rat,IV,,N
